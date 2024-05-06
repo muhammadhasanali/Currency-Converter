@@ -1,5 +1,5 @@
 {
-  "name": "currency-converter",
+  "name": "striker-currency-converter",
   "version": "1.0.0",
   "description": "This is cli based currency converter",
   "main": "index.js",
